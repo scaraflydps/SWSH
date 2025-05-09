@@ -1,0 +1,24 @@
+{
+  "name": "@xHiqhAim/StremioWebSHO",
+  "appName": "StremioWebSHO",
+  "version": "1.0",
+  "description": "StremioWeb SelfHosted online Eddition",
+  "packageType": "mods",
+  "websiteURL": "https://web.stremio.com/",
+  "main": "scripts/userScript.js",
+  "author": "xHiqhAim",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind",
+    "MediaTrackNext",
+    "MediaTrackPrevious"
+  ],
+  "repository": {
+    "url": "https://github.com/scaraflydps/SWSH"
+  },
+  "license": "GPL-3.0-only"
+}
